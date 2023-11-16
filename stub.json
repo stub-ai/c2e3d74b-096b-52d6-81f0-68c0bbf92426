@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"an MI dashboard with a single page (with tabs) sat behind supabase auth using nextjs","md5":"e35f3f329fbfdd529b93d2b9c19b1d18"}]}
